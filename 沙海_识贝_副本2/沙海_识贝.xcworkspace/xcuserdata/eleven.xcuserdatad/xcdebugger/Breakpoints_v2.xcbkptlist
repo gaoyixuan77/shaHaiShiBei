@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A79639ED-12C0-4816-97DF-D9045FCFAE8E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "522AC14A-1E74-4CA7-83B0-75082D6AE730"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x9996;&#x9875;/Controller/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "-viewWillAppear:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "522AC14A-1E74-4CA7-83B0-75082D6AE730 - 5533a670b8d4ef21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController viewWillAppear:]"
+                  moduleName = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E9%A6%96%E9%A1%B5/Controller/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "522AC14A-1E74-4CA7-83B0-75082D6AE730 - 5533a670b8d4ef21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController viewWillAppear:]"
+                  moduleName = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E9%A6%96%E9%A1%B5/Controller/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E357805D-8929-4BA4-A480-A3653E916FBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x9996;&#x9875;/Controller/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "-buttonTouchPress:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02A277C9-D25A-4E48-9F0D-52A28F8F9635"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x9996;&#x9875;/View/shouYeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "-initView"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02A277C9-D25A-4E48-9F0D-52A28F8F9635 - def72ea99dd53141"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[shouYeView initView]"
+                  moduleName = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E9%A6%96%E9%A1%B5/View/shouYeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+               <Location
+                  uuid = "02A277C9-D25A-4E48-9F0D-52A28F8F9635 - def72ea99dd53141"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[shouYeView initView]"
+                  moduleName = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E9%A6%96%E9%A1%B5/View/shouYeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "2188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
+         <BreakpointContent
+            uuid = "E5269D32-C59A-4931-AB8D-12A027B1E2AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDEConstraintErrorBreakpoint">
+         <BreakpointContent
+            uuid = "8460DCB8-0115-490E-A4BF-4B5E17D8C0E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.RuntimeIssueBreakpoint">
+         <BreakpointContent
+            uuid = "BDACF5BD-6241-4AE9-B58C-58460C5DC497"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            type = "65535">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "D74EEA8A-4743-4A79-9070-C2E07D6FA25A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "955519CF-E4D8-481B-BE20-065EE9F5E246"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "0FEB2A68-76C8-404C-97ED-EE4B31194AE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6E91C07-8BA1-4173-94BF-C499A9E42F18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x6e38;&#x620f;&#x754c;&#x9762;/View/jieShuGameView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "-initView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1BA2AF0-A877-4F13-B1AF-488E73A0C42D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x6e38;&#x620f;&#x754c;&#x9762;/View/jieShuGameView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "-initView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3642C187-E1A3-44FE-9486-3FF6C3CCBEC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x8d1d;&#x58f3;&#x56fe;&#x9274;/Controller/shallXiangQingViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3642C187-E1A3-44FE-9486-3FF6C3CCBEC2 - d1f83144142f252d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[shallXiangQingViewController viewDidLoad]"
+                  moduleName = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E8%B4%9D%E5%A3%B3%E5%9B%BE%E9%89%B4/Controller/shallXiangQingViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "3642C187-E1A3-44FE-9486-3FF6C3CCBEC2 - d1f83144142f252d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[shallXiangQingViewController viewDidLoad]"
+                  moduleName = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E6%B2%99%E6%B5%B7_%E8%AF%86%E8%B4%9D/%E8%B4%9D%E5%A3%B3%E5%9B%BE%E9%89%B4/Controller/shallXiangQingViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A5876C6-85BE-413C-A91C-0A0EF41A8F16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x6e38;&#x620f;&#x754c;&#x9762;/Controller/GameViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "503DC9A8-2274-498D-888F-659E8BB3A32D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6c99;&#x6d77;_&#x8bc6;&#x8d1d;/&#x6e38;&#x620f;&#x754c;&#x9762;/Controller/GameViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
